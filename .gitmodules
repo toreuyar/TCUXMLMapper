@@ -1,0 +1,3 @@
+[submodule "TCUTools"]
+	path = TCUTools
+	url = https://toreuyar@github.com/toreuyar/TCUTools.git
